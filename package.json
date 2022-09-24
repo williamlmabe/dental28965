@@ -1,0 +1,14 @@
+{
+  "name": "dental28965",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "# hello",
+  "keywords": [
+    "# hello"
+  ],
+  "repository": "https://github.com/williamlmabe/dental28965",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
